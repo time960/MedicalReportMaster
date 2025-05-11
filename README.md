@@ -8,6 +8,7 @@ Clone the project
 
 ```bash
   git clone https://github.com/time960/MedicalReportMaster.git
+
 ```
 
 Go to the project directory
@@ -49,7 +50,7 @@ Start Server using node or nodemon
   node app.js 
   or nodemon app.js
 ```
-
+Live link: https://medace2.vercel.app/
 
 Please Use Tailwind CSS for styling components
 ## Environment Variables
